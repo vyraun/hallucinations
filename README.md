@@ -8,5 +8,3 @@ Data and Code Repository for the NAACL 2021 Paper:
 
 PF the code at [Oscillatory Hallucinations Filter](https://github.com/GEM-benchmark/NL-Augmenter/tree/main/nlaugmenter/filters/oscillatory_hallucination).
 
-##### Full Data/code in preparation for release.
-
